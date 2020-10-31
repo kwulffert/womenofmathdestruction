@@ -7,9 +7,8 @@ For our analysis we will used three data sets:
 <br>* [CoronaNet research](https://www.coronanet-project.org/index.html) project with policies implemented per country during the pandemic.
 <br>* [Oxford Covid-19 Government Response Tracker](https://github.com/OxCGRT)
 <br>
-
-[Jupyter notebook with python analysis and predictions]
-(https://github.com/kwulffert/womenofmathdestruction/blob/main/womenofmathdestruction_covid_exploration_prediction.html) 
+<br>
+[Jupyter notebook with python analysis and predictions](https://github.com/kwulffert/womenofmathdestruction/blob/main/womenofmathdestruction_covid_exploration_prediction.html) 
 
 
 
