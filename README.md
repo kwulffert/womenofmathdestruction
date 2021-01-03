@@ -9,11 +9,9 @@ Our team: Women of Math Destruction
 * [Penelope Resulta](https://www.linkedin.com/in/penelope-dawn-resulta-1704833b/)
 * [Zoey Luu](https://www.linkedin.com/in/zoey-luu-9b069a144/)
 * [Kyra Wulffert](https://www.linkedin.com/in/kyrawulffert/)
-
 <br>We focused on answering the questions:
 * What policies did countries enforce? Any trends or differences between countries with higher and lower death tolls?
 * Were there any differences in response between women and men led countries?
-
 <br>For our analysis we used three data sets:
 <br>* Original WiD data set enriched with the information if a country has a women leader from [CFR](https://www.cfr.org/article/womens-power-index)
 <br>* [CoronaNet research](https://www.coronanet-project.org/index.html) project with policies implemented per country during the pandemic.
