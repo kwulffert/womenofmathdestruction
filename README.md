@@ -9,6 +9,7 @@ Our team: Women of Math Destruction
 * [Penelope Resulta](https://www.linkedin.com/in/penelope-dawn-resulta-1704833b/)
 * [Zoey Luu](https://www.linkedin.com/in/zoey-luu-9b069a144/)
 * [Kyra Wulffert](https://www.linkedin.com/in/kyrawulffert/)
+
 <br>We focused on answering the questions:
 * What policies did countries enforce? Any trends or differences between countries with higher and lower death tolls?
 * Were there any differences in response between women and men led countries?
@@ -17,7 +18,7 @@ Our team: Women of Math Destruction
 <br>* [CoronaNet research](https://www.coronanet-project.org/index.html) project with policies implemented per country during the pandemic.
 <br>* [Oxford Covid-19 Government Response Tracker](https://github.com/OxCGRT)
 <br>
-<br>Code and visualisations:
+Code and visualisations:
 * [Jupyter notebook with python analysis and predictions](https://github.com/kwulffert/womenofmathdestruction/blob/main/womenofmathdestruction_covid_exploration_prediction.html)
 * [Visualisations using Tableau]()
 
