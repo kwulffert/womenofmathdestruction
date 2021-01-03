@@ -19,8 +19,8 @@ Our team: Women of Math Destruction
 <br>* [Oxford Covid-19 Government Response Tracker](https://github.com/OxCGRT)
 <br>
 Code and visualisations:
-* [Jupyter notebook with python analysis and predictions](https://github.com/kwulffert/womenofmathdestruction/blob/main/womenofmathdestruction_covid_exploration_prediction.html)
-* [Visualisations using Tableau]()
+* [Python analysis and predictions](https://github.com/kwulffert/womenofmathdestruction/blob/main/womenofmathdestruction_covid_exploration_prediction.html)
+* [Visualisations using Tableau](https://github.com/kwulffert/womenofmathdestruction/blob/main/womenofmathdestruction_covid_exploration_prediction.html)
 
 
 
