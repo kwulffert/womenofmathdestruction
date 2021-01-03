@@ -2,7 +2,7 @@
 
 This repository contains our descriptive and predictive analysis of covid-19 related government responses for the TrueCue Women in Data Hackathon 2020.
 
-Our TrueCue Women in Data Hackathon submission presentation [video].(https://vimeo.com/473112297)
+Our TrueCue Women in Data Hackathon submission presentation [video](https://vimeo.com/473112297).
 
 Our team: Women of Math Destruction
 * [Adya Singh](https://www.linkedin.com/in/adya-singh/)
