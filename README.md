@@ -1,4 +1,4 @@
-# womenofmathdestruction
+# Women of Math Destruction Hackathon Project
 
 This repository contains our descriptive and predictive analysis of covid-19 related government responses for the TrueCue Women in Data Hackathon 2020.
 
